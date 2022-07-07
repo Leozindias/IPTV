@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg" group-title="CANAIS ABERTOS",NOME DO CANAABERTOS",GLOBO
+https://edge-aws.aovivotv.xyz/hls/s:51.15.123.117/discoverykids_80e28a51_01eb07ec596ee7306a30656e244fe99ba7cfbfa9/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTY4LjIyNy4zMi4yMzIiO2k6MTtzOjExMToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMy4wLjAuMCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjU3MjEyNjI4O30%3D
+
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="LOGO DO CANAL" group-title="GRUPO DO CANAL",NOME DO CANAL
+LINK DO CANAL
+
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="LOGO DO CANAL" group-title="GRUPO DO CANAL",NOME DO CANAL
+LINK DO CANAL
+
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="LOGO DO CANAL" group-title="GRUPO DO CANAL",NOME DO CANAL
+LINK DO CANAL
